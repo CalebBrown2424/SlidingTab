@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LunchFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="93dp"
+        android:gravity="center"
+        android:text="@string/lunch_Text"
+        android:textSize="42sp"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="787dp"
+        android:src="@drawable/mcdonalds_chicken_nuggets_recipe_1" />
+
+</FrameLayout>

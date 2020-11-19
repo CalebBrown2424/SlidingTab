@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sliding Tab App</string>
+    <string name="oj_Text">Orange Juice</string>
+    <string name="dinner_Text">Dinner</string>
+    <string name="lunch_Text">Lunch</string>
+    <string name="breakfast_Text">Breakfast</string>
+</resources>
